@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hola 👋, Mi nombre es Breimer Bautista, soy Desarrollador Web, FullStack en Frontend y Backend.
+## Hola 👋, Mi nombre es Breimer Bautista, Soy Desarrollador Web, FullStack en Frontend y Backend.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -18,8 +18,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 Me encuentro creciendo mis conocimientos al desarrollo Web y como FullStack.
-- 🌱 Las herramientas que manejo son Angular CLI, Java, JavaScript, TypeScript, NodeJS, MySQL. 
-- 👯 Estoy enfocado en el crecimiento de mis conocimientos en la colaboracion, trabajo en equipo, con mucha responsabilidad y eficacia en cada proyecto asignado 🤝;
+- 🌱 Las herramientas que manejo son Angular, Java, JavaScript, TypeScript, NodeJS, MySQL. 
+- 👯 Estoy enfocado en el crecimiento de mis conocimientos al desarrollo, en la colaboracion, trabajo en equipo, con mucha responsabilidad y eficacia en cada proyecto asignado 🤝;
 - ⚡️ Dato extra: Soy Ingeniero Industrial.
 - 📫 Puedes contactarme a mi gmail: BreimerBa@gmail.com;
 
