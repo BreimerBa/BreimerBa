@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/BreimerBa)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Breimer-Augusto-Bautista-Angarita/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:breimerba@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](breimerba@gmail.com)
 
 &nbsp;
 
@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Dato extra: Soy Ingeniero Industrial.
 - 📫 Puedes contactarme a mi gmail: BreimerBa@gmail.com;
 
-**Languages and Tools:** 
+**Lenguajes y Herramientas:** 
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
