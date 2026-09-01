@@ -1,5 +1,6 @@
 <!-- Your title -->
-## Hola 👋, Mi nombre es Breimer Bautista, Soy Desarrollador Web, FullStack en Frontend y Backend.
+## Hola 👋, Mi nombre es Breimer Bautista
+En crecimiento como Desarrollador.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
